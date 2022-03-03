@@ -4,6 +4,7 @@ The BodgeIt Store is a vulnerable web application which is currently aimed at pe
 > #### You are strongly recommended to use [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) instead!
 
 Note that the BodgeIt Store is now available as a Docker image: https://hub.docker.com/r/psiinon/bodgeit/ 
+Test
 
 Some of its features and characteristics:
 * Easy to install - just requires java and a servlet engine, e.g. Tomcat
